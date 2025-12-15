@@ -60,6 +60,10 @@ NVIDIA
 黄仁勋
 
 AMD
+CPU
+NAS
+硬盘
+内存
 
 谷歌
 google
